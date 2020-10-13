@@ -165,7 +165,7 @@ These are the current Risks on the project, re-aligned on a weekly basis
 The teams team's velocity is calculated by dividing the the number of points burned each sprint divided by no of sprints. The Velocity chart from Jira (below) is used for this calculation.
 
 The teams current story point velocity is "<6>".  
-[Velocity Planning Sheet](../master/docs/LYITTeamMarvel_GweedoreDP_PlanningSheet.xlsx)
+
 
 
 Research and a working prototype with a sample maven java project with jenkins pipeline to compile the code and run unit tests have been created.
