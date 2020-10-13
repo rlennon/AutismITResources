@@ -170,8 +170,3 @@ The teams current story point velocity is "<6>".
 
 Research and a working prototype with a sample maven java project with jenkins pipeline to compile the code and run unit tests have been created.
 
-<<<<<<< HEAD
-=======
-Rotating Schedule
-
->>>>>>> l00156762/javadoc
