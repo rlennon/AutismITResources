@@ -51,8 +51,7 @@ Lennon, Ruth
     
 ## Considerations
     
-    This section was missing from Ruth, but she had it in table of contents.  
-    Adding as placeholder for now.
+    This section was missing from the boilerplate. Add notes as needed.
 
 ## Useful Links
 * https://guides.github.com/
