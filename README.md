@@ -24,7 +24,7 @@ Autism IT Resources Development Project - Team Assignment
 This project aims to provid an online repository of resources for people with autism. Due to Covid they find that they suddenly a need to deal with new situations for which they many not have sufficient time to prepare. This student project requires the team to design a solution to enable appropriate resources to be provided to the customer. The duration allowed to work on this project means that it will not be fully completed. The design and a proof of concept should be completed with sufficient information to enable the next team to continue with the project.
 
 
-Our product will be delivered using an Agile methodology that embraces the DevOps culture. Please note that our culture embraces change and these documents are treated as living, breathing artefacts that will be continuously updated.  
+Our product will be delivered using an Agile methodology that embraces the DevOps culture. Please note that our culture embraces change and these documents are treated as living, breathing artefacts that will be continuously updated regularly.  
 
 
 
