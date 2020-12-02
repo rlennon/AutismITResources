@@ -1,1 +1,1 @@
-security is essential for pople with autism as some may not be able to identify potentail security threats. Two teir identifications that contacts their phone when logging in may be a good solution to this.
+security is essential for people with autism as some may not be able to identify potentail security threats. Two teir identifications that contacts their phone when logging in may be a good solution to this.
