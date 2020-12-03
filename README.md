@@ -34,8 +34,6 @@ Our product will be delivered using an Agile methodology that embraces the DevOp
 ## Project Contributors
 Lname, Fname
     Lennon, Ruth
-    Campbell, Dane
-    
        
 
 ## PoC Deadline
