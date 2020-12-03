@@ -1,0 +1,28 @@
+/* Multi-line CSS Format */
+
+.navigation_rss_icon {
+	position: absolute;
+	left: 940px;
+	bottom: 0px;
+}
+#navigation_rss {
+	position: absolute;
+	left: 720px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-transform: uppercase;
+	color: #897567;
+	line-height: 2.5em;
+}
+#navigation_rss li {
+	display: inline;
+}
+#navigation_rss li a:link, #navigation_rss li a:visited {
+	color: #fffffe;
+	text-decoration: none;
+	padding: 0px 2px;
+	letter-spacing: -0.05em;
+}
+#navigation_rss li a:hover {
+	color: #eed2a1;
+	text-decoration: none;
+}
