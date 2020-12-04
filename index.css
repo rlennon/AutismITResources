@@ -1,4 +1,4 @@
-@charset "UTF-7";
+@charset "UTF-8";
 .container {
 	background-color: #FFFFFF;
 	width: 90%;
@@ -79,6 +79,10 @@
 	padding-bottom: 15px;
 	padding-left: 0px;
 	width: 100%;
+}
+.secondary_header a{
+	text-decoration: none;
+	color: inherit;
 }
 .secondary_header ul li {
 	list-style: none;
@@ -194,12 +198,26 @@
 	font-family: "Source Sans Pro";
 	text-align: center;
 }
+.container .column_half.left_half h2 a{
+	color: #FFFFFF;
+	font-family: "Source Sans Pro";
+	text-align: center;
+	text-decoration: none;
+}
 .right_half {
 	background-color: #01B2D1;
 	color: #FFFFFF;
 	font-family: "Source Sans Pro";
 	text-align: center;
 	font-weight: bold;
+}
+.right_half a{
+	background-color: #01B2D1;
+	color: #FFFFFF;
+	font-family: "Source Sans Pro";
+	text-align: center;
+	font-weight: bold;
+	text-decoration: none;
 }
 .column_title {
 	padding-top: 25px;
