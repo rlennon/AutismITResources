@@ -57,6 +57,9 @@
                 
                     <label for="lname">Last Name</label>
                     <input type="text" class="contactText" id="lname" name="lastname">
+
+                    <label for="email">Email Address</label>
+                    <input type="text" class="contactText" id="emailAdd" name="emailAdd">
                 
                     <label for="subject">Subject</label>
                     <textarea id="subject" name="subject" style="height:200px"></textarea>
