@@ -30,12 +30,12 @@
 
   </section>
 
-  <div class="row blockDisplay">
+   <div class="row blockDisplay">
     <div class="column_half left_half">
-      <h2 class="column_title"><a href="facebook.com">RESOURCES A-Z</h2>
+      <h2 class="column_title"><a href="image-based-hyperlinks.php">RESOURCES</h2>
     </div>
     <div class="column_half right_half">
-      <h2 class="column_title"><a href="News.php">ARTICLES A-Z</h2>
+      <h2 class="column_title"><a href="News.php">ARTICLES</h2>
     </div>
   </div>
   <div class="social">
