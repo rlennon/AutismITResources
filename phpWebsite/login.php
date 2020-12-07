@@ -18,52 +18,33 @@
   <section>
     <h2 class="noDisplay">Main Content</h2>
     <article class="left_article">
-      <h3>Autism Video Resources</h3>
+      <h3>Login Page</h3>
 
-<h3><p>Below are informative videos in relation to people with autism. They will explain how they can take better care and be supported during Covid-19</p></h3>
+<div align="center">
 
-<br>
 
-<table> 
+    <form action ="home.html" id="form_login">
+        <p>
+            <input type="text" placeholder="email" />
+        </p>
+        <p>
+            <input type="password" placeholder="password" />
+        </p>
+        <p>
+            <input type = "submit" id = "login" value ="Login"></input>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "#reset pass link">Forgot your password?</a>
+        </p>
+	<p>
+	    <a href="register.php">Don't have an account? Click Here!</a>	
+	</p>
+    </form>
 
-<tr>
-
-<td>
-   Click to find out about what Autism is.<br>
-<br>
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/d4G0HTIUBlI">
-</iframe>
-</td>
-
-<td>
-Click to find out how children can be supported during Covid-19<br>
-<br>
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/OUyrLsrz_n0">
-</iframe>
-</td>
-
-<td>
-Click to find out how indivuals with autism can be supported in <br> regards to social distancing
-<br>
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/40ftQ9bla3g">
-</iframe>
-</td>
-
-</tr>
-
-</table>
-<br>
-<a href="News.php">Click here to check out some news resources!</a>
     </article>
 
   </section>
 
   <div class="row blockDisplay">
     <div class="column_half left_half">
-      <h2 class="column_title"><a href="facebook.com">RESOURCES A-Z</h2>
+      <h2 class="column_title"><a href="image-based-hyperlinks.php">RESOURCES A-Z</h2>
     </div>
     <div class="column_half right_half">
       <h2 class="column_title"><a href="facebook.com">ARTICLES A-Z</h2>

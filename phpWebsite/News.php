@@ -18,45 +18,14 @@
   <section>
     <h2 class="noDisplay">Main Content</h2>
     <article class="left_article">
-      <h3>Autism Video Resources</h3>
-
-<h3><p>Below are informative videos in relation to people with autism. They will explain how they can take better care and be supported during Covid-19</p></h3>
-
-<br>
-
-<table> 
-
-<tr>
-
-<td>
-   Click to find out about what Autism is.<br>
-<br>
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/d4G0HTIUBlI">
-</iframe>
-</td>
-
-<td>
-Click to find out how children can be supported during Covid-19<br>
-<br>
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/OUyrLsrz_n0">
-</iframe>
-</td>
-
-<td>
-Click to find out how indivuals with autism can be supported in <br> regards to social distancing
-<br>
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/40ftQ9bla3g">
-</iframe>
-</td>
-
-</tr>
-
-</table>
-<br>
-<a href="News.php">Click here to check out some news resources!</a>
+      <h3>News</h3>
+      <p>Here are some useful links that could provide more information about autism</p>
+      <p>These links are to show different layouts we could use in the final product, this is to give the customer a choice on the layout</p>
+      <p><a href="https://autism.ie/news/">Autism.ie</a></p>
+      <p><a href="https://www.spectrumnews.org/news/">spectrumnews.org</a></p>
+      <p><a href="https://www.sciencedaily.com/news/mind_brain/autism/">sciencedaily.com</a></p>
+      <p><a href="https://www.thejournal.ie/autism/news/">thejournal.ie</a></p>
+      <p><a href="https://researchautism.org/news-events/latest-news/">researchautism.org</a></p>
     </article>
 
   </section>

@@ -18,47 +18,17 @@
   <section>
     <h2 class="noDisplay">Main Content</h2>
     <article class="left_article">
-      <h3>Autism Video Resources</h3>
-
-<h3><p>Below are informative videos in relation to people with autism. They will explain how they can take better care and be supported during Covid-19</p></h3>
-
-<br>
-
-<table> 
-
-<tr>
-
-<td>
-   Click to find out about what Autism is.<br>
-<br>
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/d4G0HTIUBlI">
-</iframe>
-</td>
-
-<td>
-Click to find out how children can be supported during Covid-19<br>
-<br>
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/OUyrLsrz_n0">
-</iframe>
-</td>
-
-<td>
-Click to find out how indivuals with autism can be supported in <br> regards to social distancing
-<br>
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/40ftQ9bla3g">
-</iframe>
-</td>
-
-</tr>
-
-</table>
-<br>
-<a href="News.php">Click here to check out some news resources!</a>
-    </article>
-
+      <h1>Frequently asked questions (FAQ)</h1>
+      <br>
+      <p><h2>Symptoms of autism</h2></p>
+      <p>Autism, like many other neurodivergent conditions, is an invisible disability which exists on a spectrum. <br>
+      Therefore, autistic traits are not universal and are often specific to the person.
+      <a href="https://asiam.ie/about-autism/common-characteristics/"> Click here</a> for an in <br>depth description of autistic traits.</p>
+      <p><h2>How to access services and support</h2></p>
+      <p>To access services and supports that may have
+      been recommended for a child in relation to their education <br>
+       see the<a href="https://ncse.ie/for-schools"> National Council for Special Education</a> website.</p>
+      <br>
   </section>
 
   <div class="row blockDisplay">
