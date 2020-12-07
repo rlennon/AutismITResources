@@ -1,10 +1,10 @@
 <nav class="secondary_header" id="menu">
     <ul>
     <li><a href="index.php">HOMEPAGE</a></li>
-    <li><a href="image-based-hyperlinks.html">RESOURCE LINKS</a></li>
     <li><a href="videoResources.php">VIDEO RESOURCES</a></li>
-    <li>FAQ</li> <!>
-    <li><a href="community.php">COMMUNITY</a></li>
-    <li>COVID SAFETY</li>
+    <li><a href="FAQ.php">FAQ</a></li>
+    <li><a href="staySecure.php">STAYING SAFE</a></li>
+    <li><a href="covidAdvice.php">COVID SAFETY</a></li>
+    <li><a href="assistiveTechPage.php">ATT</a></li>
   </ul>
 </nav>
