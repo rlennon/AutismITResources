@@ -56,7 +56,7 @@ src="https://www.youtube.com/embed/40ftQ9bla3g">
 
 </table>
 <br>
-<a href="News.php">For more information, check out our news resources page</a>
+<a href="News.php">Click here to check out some news resources!</a>
     </article>
 
   </section>
