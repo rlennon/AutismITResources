@@ -55,8 +55,6 @@ src="https://www.youtube.com/embed/40ftQ9bla3g">
 </tr>
 
 </table>
-<br>
-<a href="News.php">Click here to check out some news resources!</a>
     </article>
 
   </section>
@@ -66,7 +64,7 @@ src="https://www.youtube.com/embed/40ftQ9bla3g">
       <h2 class="column_title"><a href="facebook.com">RESOURCES A-Z</h2>
     </div>
     <div class="column_half right_half">
-      <h2 class="column_title"><a href="facebook.com">ARTICLES A-Z</h2>
+      <h2 class="column_title"><a href="News.php">ARTICLES A-Z</h2>
     </div>
   </div>
   <div class="social">

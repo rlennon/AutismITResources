@@ -30,7 +30,7 @@
       <h2 class="column_title"><a href="image-based-hyperlinks.php">RESOURCES A-Z</h2>
     </div>
     <div class="column_half right_half">
-      <h2 class="column_title"><a href="facebook.com">ARTICLES A-Z</h2>
+      <h2 class="column_title"><a href="News.php">ARTICLES A-Z</h2>
     </div>
   </div>
   <div class="social">
