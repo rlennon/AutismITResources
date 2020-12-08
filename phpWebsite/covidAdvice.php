@@ -39,6 +39,7 @@
 <h3>Wear a mask</h3>
 <p>One of the most effective way of mitigating infection rates is wearing a mask. This not only protects you from potential infection, but also protects others you come into contact with.
 </p>
+<p><a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks">To view more information regarding the proper use of face masks, follow this link</a></p>
 
 
 <h3>Don’t touch your eyes, nose or mouth.</h3>
@@ -56,12 +57,15 @@
 <p>Call your health care provider or hotline for advice. Have someone bring you supplies. If you need to leave your house or have someone near you, wear a medical mask to avoid infecting others.
 
 </p>
+<p><a href="https://www2.hse.ie/conditions/coronavirus/symptoms.html">Click here to view the list of symptoms provided by the HSE</a></p>
 
 
 <h3>If you have a fever, cough and difficulty breathing, seek medical attention.</h3>
 <p>Call by telephone first, if you can and follow the directions of your local health authority.
 
 </p>
+<p><a href="https://www2.hse.ie/services/contact-the-hse/">Follow this link for contact information from the HSE regarding COVID-19</a></p>
+
 <br>
 <p>
 <a href="videoResources.php">To view helpful video resources, visit our video Resource page</a>
