@@ -1,0 +1,1 @@
+Based on the project specification it was determined that the target market for the website would be people with autism. More specifically the target market is people with autism who are seeking for information on how to adapt to new situations due to COVID-19. 
