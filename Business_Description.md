@@ -1,1 +1,0 @@
-This is the business description for Autism IT Resources. Autism IT Resources serves to provide an online repository for those with autism. The repository will provide resources that will help those with autism to adapt to new situations as a result of Covid. The resources will be listed on the website and will be easy to read and accessible.

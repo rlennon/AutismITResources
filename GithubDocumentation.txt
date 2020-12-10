@@ -1,2 +1,0 @@
-GitHub is a platform that is used to host code. Additionally, it is used for version control and collaboration. 
-Github allows teams to remotely collaborate on projects by allowing collaborators to clone repositories to work on locally before pushing back to the main repository.
