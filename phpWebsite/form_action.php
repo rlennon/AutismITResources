@@ -7,6 +7,17 @@
 <title>AutismIt</title>
 <link href="index.css" rel="stylesheet" type="text/css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" />
+<style>
+.feedback_ack {
+        border-radius: 5px;
+        background-color: #f2f2f2;
+        padding: 20px;
+    }
+
+#feedbackText {
+  color: black;
+}
+</style>
 </head>
 <body>
 <div class="container">
@@ -19,9 +30,11 @@
     <h2 class="noDisplay">Main Content</h2>
     <article class="left_article">
       <h3>Feedback Received!</h3>
-
-      <p>Thanks for contacting us <?php echo $_GET["firstname"]; ?>!</p><br>
-        <p>We will reply to you at the following email address: <?php echo $_GET["emailAdd"]; ?>
+      <div class="feedback_ack">
+        <p id="feedbackText">Hi <?php echo $_GET["firstname"]; ?>,<br>
+        Thanks for contacting us. Your feedback is very important to us.<br>
+        We will reply to you at the following email address: <?php echo $_GET["emailAdd"]; ?></p>
+      </div>
 
     </article>
 
