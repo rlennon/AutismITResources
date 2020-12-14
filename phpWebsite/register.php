@@ -19,38 +19,36 @@
     <h2 class="noDisplay">Main Content</h2>
     <article class="left_article">
       <h3>Register</h3>
+
       <?php include('createUser.php') ?>
-<!DOCTYPE html>
-<html>
-<head>
-    <title>
-        Registration system PHP and MySQL
-    </title>
-    <link rel="stylesheet" type="text/css"
-                    href="Styles/Stylesheet.css">
-</head>
+      <?php include('errors.php'); ?>
 
-<body>
-    <div class="header">
-        <h2>Register</h2>
+      <div align="center">
 
 
+        <form action="register.php" method="post">
 
-        <form action="createUser.php" method="post">
-         <input type="hidden" name="reg_user" value="true">
-         <br>
-         <label><b>Username</b>: </label><input type="text" name="username" placeholder="Enter Username"/>
-         <br>
-         <label><b>Email</b>: </label><input type="text" name="email" placeholder="Enter Email"/>
-         <br>
-         <label><b>Password</b> : </label><input type="password" name="password_1" placeholder="Enter Password"/>
-         <br>
-         <label><b>Confirm Password</b>: </label><input type="password" name="password_2" placeholder="Re-Enter Password"/>
-         <br>
-         <input type="submit" value="Register">
-         <br>
-         <a href="login.php">Have an account? Login</a>
-
+              <p>
+                    <input type="hidden" name="reg_user" value="true">
+              </p>
+              <p>
+                    <label><b>Username</b>: </label><input type="text" name="username" placeholder="Enter Username"/>
+              </p>
+              <p>
+                    <label><b>Email</b>: </label><input type="text" name="email" placeholder="Enter Email"/>
+              </p>
+              <p>
+                    <label><b>Password</b> : </label><input type="password" name="password_1" placeholder="Enter Password"/>
+              </p>
+              <p>
+                    <label><b>Confirm Password</b>: </label><input type="password" name="password_2" placeholder="Re-Enter Password"/>
+              </p>
+              <p>
+                    <input type="submit" value="Register">
+              </p>
+              <p>
+                    <a href="login.php">Have an account? Login</a>
+              </p>
       </form>
 </body>
 </html>
