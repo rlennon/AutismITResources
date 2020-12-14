@@ -71,6 +71,10 @@
 <a href="videoResources.php">To view helpful video resources, visit our video Resource page</a>
 </p>
 
+<p>
+<a href="workingFromHome.php">To view tips for working remotely, visit our Working From Home page</a>
+</p>
+
 
   </section>
 
