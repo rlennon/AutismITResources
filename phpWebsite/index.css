@@ -10,6 +10,9 @@
 	padding-right: 0px;
 	padding-bottom: 0px;
 }
+.search-container {
+  float: right;
+}
 .row {
 	width: 100%;
 	margin-top: 0px;

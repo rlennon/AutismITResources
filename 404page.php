@@ -16,7 +16,7 @@
 <body>
 <div class="container">
   <header>
-    <?php include 'AutismITResources/header.php';?>
+    <?php include 'phpWebsite/header.php';?>
 
   </header>
   <section>
@@ -38,7 +38,7 @@
     <p class="social_icon"><a href="instagram.com"><i class = 'fa fa-instagram' style='font-size:60px;color:#52bad5;'></i></p>
     <p class="social_icon"><a href="youtube.com"><i class = 'fa fa-youtube' style='font-size:60px;color:#52bad5;'></i></p>
   </div>
-  <?php include 'AutismITResources/footer.php';?>
+  <?php include 'phpWebsite/footer.php';?>
 </div>
 </body>
 </html>

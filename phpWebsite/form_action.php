@@ -7,6 +7,17 @@
 <title>AutismIt</title>
 <link href="index.css" rel="stylesheet" type="text/css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" />
+<style>
+.feedback_ack {
+        border-radius: 5px;
+        background-color: #f2f2f2;
+        padding: 20px;
+    }
+
+#feedbackText {
+  color: black;
+}
+</style>
 </head>
 <body>
 <div class="container">
@@ -18,35 +29,13 @@
   <section>
     <h2 class="noDisplay">Main Content</h2>
     <article class="left_article">
-      <h3>Login Page</h3>
-      <?php include('createUser.php') ?>
-      <?php include('errors.php'); ?>
+      <h3>Feedback Received!</h3>
+      <div class="feedback_ack">
+        <p id="feedbackText">Hi <?php echo $_GET["firstname"]; ?>,<br>
+        Thanks for contacting us. Your feedback is very important to us.<br>
+        We will reply to you at the following email address: <?php echo $_GET["emailAdd"]; ?></p>
+      </div>
 
-
-<div align="center">
-
-
-    <form action="login.php" method="post">
-
-      <p>
-            <input type="hidden" name="login_user" value="true">
-      </p>
-
-        <p>
-        <input type="text" name ="username" placeholder="username" />
-        </p>
-        <p>
-          <input type="password" name="password" placeholder="password" />
-        </p>
-        <p>
-            <input type = "submit" id = "login" value ="Login"></input>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "#reset pass link">Forgot your password?</a>
-        </p>
-	<p>
-	    <a href="register.php">Don't have an account? Click Here!</a>
-	</p>
-      </form>
-</body>
-</html>
     </article>
 
   </section>

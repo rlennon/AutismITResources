@@ -18,35 +18,29 @@
   <section>
     <h2 class="noDisplay">Main Content</h2>
     <article class="left_article">
-      <h3>Login Page</h3>
-      <?php include('createUser.php') ?>
-      <?php include('errors.php'); ?>
-
+      <h3>Account Details</h3>
 
 <div align="center">
 
 
-    <form action="login.php" method="post">
-
-      <p>
-            <input type="hidden" name="login_user" value="true">
-      </p>
-
+    
         <p>
-        <input type="text" name ="username" placeholder="username" />
-        </p>
-        <p>
-          <input type="password" name="password" placeholder="password" />
-        </p>
-        <p>
-            <input type = "submit" id = "login" value ="Login"></input>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "#reset pass link">Forgot your password?</a>
+            <strong>Account Name:</strong> Joe Bloggs
         </p>
 	<p>
-	    <a href="register.php">Don't have an account? Click Here!</a>
-	</p>
-      </form>
-</body>
-</html>
+            <strong>D.O.B:</strong> 11/12/1992
+        </p>
+        <p>
+            <strong>Email:</strong> 123@lyit.ie
+        </p>
+	<p>
+            <strong>Address:</strong> 123 Street
+        </p>
+	<p>
+            <strong>Active Since:</strong> 11/12/2020
+        </p>
+    
+
     </article>
 
   </section>
@@ -70,3 +64,4 @@
 </div>
 </body>
 </html>
+

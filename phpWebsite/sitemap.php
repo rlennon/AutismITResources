@@ -9,51 +9,60 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" />
 </head>
 <body>
+<style>
+
+.links {
+text-align: center;
+style-position: inside;
+}
+ul {
+    text-align: ceneter;
+    list-style-position: inside;
+
+}
+
+
+
+</style>
 <div class="container">
   <header>
     <?php include 'header.php';?>
       <?php include 'navBar.php';?>
 
   </header>
-  <section>
-    <h2 class="noDisplay">Main Content</h2>
-    <article class="left_article">
-      <h3>Login Page</h3>
-      <?php include('createUser.php') ?>
-      <?php include('errors.php'); ?>
+  
+  <section class="links">
+  <h2 >Site Map</h2>
+  
+  <ul>
+  
+  <li><a href="image-based-hyperlinks.php">Image-Based Resources</li>
+  
+  
+  <li><a href="index.php">Homepage</a></li>
+  <li><a href="videoResources.php">Video Resources</a></li>
+  <li><a href="FAQ.php">Frequnetly Asked Questions</a></li>
+  <li><a href="staySecure.php">Staying Safe Advice</a></li>
+  <li><a href="covidAdvice.php">Covid Safety Advice</a></li>
+  <li><a href="assistiveTechPage.php">Autistic Assistive Technologies</a></li>
+  <li><a href="aboutUs.php">About Us</a></li>
+  <li><a href="contactPage.php">Contact Us</a></li>
+  <li><a href="login.php">Login</a></li>
+  <li><a href="News.php">Articles</a></li>
+  <li><a href="register.php">Register</a></li>
+  <li><a href="blog.php">Blog</a></li>
+  <li><a href="userDetails.php">View User details</a></li>
+  <li><a href="community.php">Comunity Page</a></li>
 
 
-<div align="center">
-
-
-    <form action="login.php" method="post">
-
-      <p>
-            <input type="hidden" name="login_user" value="true">
-      </p>
-
-        <p>
-        <input type="text" name ="username" placeholder="username" />
-        </p>
-        <p>
-          <input type="password" name="password" placeholder="password" />
-        </p>
-        <p>
-            <input type = "submit" id = "login" value ="Login"></input>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "#reset pass link">Forgot your password?</a>
-        </p>
-	<p>
-	    <a href="register.php">Don't have an account? Click Here!</a>
-	</p>
-      </form>
-</body>
-</html>
-    </article>
+  </ul>
+  
 
   </section>
 
   <div class="row blockDisplay">
     <div class="column_half left_half">
-      <h2 class="column_title"><a href="image-based-hyperlinks.php">RESOURCES</h2>
+      <h2 class="column_title"><a href="image-based-hyperlinks.php">RESOURCES </h2>
     </div>
     <div class="column_half right_half">
       <h2 class="column_title"><a href="News.php">ARTICLES</h2>

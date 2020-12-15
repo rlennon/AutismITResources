@@ -38,7 +38,7 @@
 
     <p>  For more information please visit the link below.
 
-  <h3><a href="https://www.webwise.ie/uncategorized/creating-strong-passwords/">How to stay secure with your password</h3>
+  <h3><a href="https://www.webwise.ie/uncategorized/creating-strong-passwords/">How to stay secure with your password</a></h3>
 
            <h3>Avoiding people who may not have the best intentions</h3>
 
@@ -47,7 +47,7 @@
               For more information on bullying please click the next link.
            </p>
 
-           <h3><a href="http://www.autismtas.org.au/wp-content/uploads/2017/11/Info-Sheet-Behaviour.pdf">Ant-bullying help</h3>
+           <h3><a href="bullying.php">Ant-bullying help</a></h3>
 
              <p>For any further information that may be rquired we have suplie additional website material for reading</p>
 
