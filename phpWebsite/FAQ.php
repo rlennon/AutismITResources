@@ -29,6 +29,7 @@
       been recommended for a child in relation to their education <br>
        see the<a href="https://ncse.ie/for-schools"> National Council for Special Education</a> website.</p>
       <br>
+	<p> <a href="videoResources.php">To view helpful video resources, visit our video Resource page</a></p>
   </section>
 
    <div class="row blockDisplay">
