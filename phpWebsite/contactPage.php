@@ -59,10 +59,10 @@
                     <input type="text" class="contactText" id="lname" name="lastname">
 
                     <label for="email">Email Address</label>
-                    <input type="text" class="contactText" id="emailAdd" name="emailAdd">
+                    <input type="text" class="contactText" id="emailAdd" name="emailAdd" required>
                 
                     <label for="subject">Subject</label>
-                    <textarea id="subject" name="subject" style="height:200px"></textarea>
+                    <textarea id="subject" name="subject" style="height:200px" required></textarea>
                 
                     <input type="submit" id="contactBtn" value="Submit">
                 </form>
