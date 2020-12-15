@@ -19,34 +19,25 @@
     <h2 class="noDisplay">Main Content</h2>
     <article class="left_article">
       <h3>Login Page</h3>
-      <?php include('createUser.php') ?>
-      <?php include('errors.php'); ?>
-
 
 <div align="center">
 
 
-    <form action="login.php" method="post">
-
-      <p>
-            <input type="hidden" name="login_user" value="true">
-      </p>
-
+    <form action ="home.html" id="form_login">
         <p>
-        <input type="text" name ="username" placeholder="username" />
+            <input type="text" placeholder="email" />
         </p>
         <p>
-          <input type="password" name="password" placeholder="password" />
+            <input type="password" placeholder="password" />
         </p>
         <p>
             <input type = "submit" id = "login" value ="Login"></input>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "#reset pass link">Forgot your password?</a>
         </p>
 	<p>
-	    <a href="register.php">Don't have an account? Click Here!</a>
+	    <a href="register.php">Don't have an account? Click Here!</a>	
 	</p>
-      </form>
-</body>
-</html>
+    </form>
+
     </article>
 
   </section>
