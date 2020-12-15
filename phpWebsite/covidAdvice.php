@@ -20,7 +20,10 @@
         <section>
             <h2 class="noDisplay">Main Content</h2>
             <article class="left_article">
+
+                
                 <h3>How to Stop the Spread of COVID-19</h3>
+                <p><img src="images/covid.jpg" alt="Covid" height = '300' width = '600'></img></p>
 
                 <p>During the pandemic it is important for everyone to do their best to follow the government mandated
                     guidelines to deal with this virus. Here we will outline the different steps you can take to
@@ -29,6 +32,7 @@
 
 
                 <h3>Clean your hands often.</h3>
+                <p><img src="images/washinghands.jpg" alt="Handwashing" height = '300' width = '600'></img></p>
                 <p>One of the easiest, most useful ways of combating this virus is cleanliness. Make sure to rigurously
                     clean your hands with soap and water as often as possible, particularly when you come back
                     from leaving your home.
@@ -36,21 +40,23 @@
 
 
                 <h3>Maintain a safe distance from anyone who is coughing or sneezing.</h3>
+                <p><img src="images/socialdistancing.jpg" alt="Social Distancing" height = '300' width = '600'></img></p>
                 <p>If you are in a public place and see someone coughing or sneezing it is best to steer clear. The
                     person may just have a cough or cold, but it is better to be safe than sorry in this situation.
                 </p>
 
 
                 <h3>Wear a mask</h3>
+                <p><img src="images/mask.png" alt="Mask" height = '300' width = '600'></img></p>
                 <p>One of the most effective way of mitigating infection rates is wearing a mask. This not only protects
                     you from potential infection, but also protects others you come into contact with.
                 </p>
-                <p><a
-                        href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks">To
+                <p><a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks">To
                         view more information regarding the proper use of face masks, follow this link</a></p>
 
 
                 <h3>Don’t touch your eyes, nose or mouth.</h3>
+                <p><img src="images/nofacetouching.jpg" alt="No Face Touching" height = '300' width = '600'></img></p>
                 <p>The virus can be spread by eyes, nose or mouth so it is important to avoid touching these areas,
                     particularly if you haven't washed your hands.
                 </p>
@@ -58,6 +64,7 @@
 
 
                 <h3>Cover your nose and mouth with your bent elbow or a tissue when you cough or sneeze.</h3>
+                <p><img src="images/cough.jpg" alt="Coughing" height = '300' width = '600'></img></p>
                 <p>Then dispose of the used tissue immediately into a closed bin and wash your hands. By following good
                     ‘respiratory hygiene’, you protect the people around you from viruses, which cause colds, flu and
                     COVID-19.
@@ -65,6 +72,7 @@
 
 
                 <h3>Stay home if you feel unwell.</h3>
+                <p><img src="images/stayhome.jpg" alt="Stay Home" height = '300' width = '600'></img></p>
                 <p>Call your health care provider or hotline for advice. Have someone bring you supplies. If you need to
                     leave your house or have someone near you, wear a medical mask to avoid infecting others.
 
@@ -74,6 +82,7 @@
 
 
                 <h3>If you have a fever, cough and difficulty breathing, seek medical attention.</h3>
+                <p><img src="images/fever.jpg" alt="Seek Help" height = '300' width = '600'></img></p>
                 <p>Call by telephone first, if you can and follow the directions of your local health authority.
 
                 </p>
