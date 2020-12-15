@@ -73,13 +73,6 @@
     <div class="column_half right_half">
       <h2 class="column_title"><a href="News.php">ARTICLES</h2>
     </div>
-    <div class="column_half left_half">
-      <h2 class="column_title"><a href="blog.php">Blog </h2>
-    </div>
-    <div class="column_half right_half">
-      <h2 class="column_title"><a href="sitemap.php">Sitemap </h2>
-    </div>
-    
   </div>
   <div class="social">
 

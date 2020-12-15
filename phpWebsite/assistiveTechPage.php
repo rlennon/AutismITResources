@@ -19,7 +19,7 @@
         </header>
         <section>
             <h2 class="noDisplay">Main Content</h2>
-            <article class="left_article container ">
+            <article class="left_article">
                 <div>
                     <h1>Autistic Assistive Technologies (AATs)</h1>
                     <h3><a
@@ -86,37 +86,30 @@
                         <a href="https://americanbrainsociety.org/autism-assistive-technology/">here</a>.
                     </p>
                 </div>
-                <div>
-                    <h3><a href="https://asiam.ie/robert-byrnes-sensory-pod/">Robert Byrne’s Sensory Pod</a></h3>
-                    <p>
-                        Byrne created a new piece of assistive technology, the Sensory Pod. The pod is roghly the size
-                        of a
-                        sunbed and is said to be an excellent resource for anyone with sensory needs. Read more from
-                        source
-                        <a href="https://asiam.ie/robert-byrnes-sensory-pod/">here</a>.
-                    </p>
-                </div>
+                <h3><a href="https://asiam.ie/robert-byrnes-sensory-pod/">Robert Byrne’s Sensory Pod</a></h3>
+                <p>
+                    Byrne created a new piece of assistive technology, the Sensory Pod. The pod is roghly the size of a
+                    sunbed and is said to be an excellent resource for anyone with sensory needs. Read more from source
+                    <a href="https://asiam.ie/robert-byrnes-sensory-pod/">here</a>.
+                </p>
                 <hr>
                 <div>
                     <h3><a
                             href="https://www.stairwaytostem.org/assistive-tech-to-support-autistic-students-in-the-classroom/">Autism
                             in College</a></h3>
-
-                    <h4 style='margin-left: 32px;'>Assistive Tech to Support Autistic Students in the Classroom</h4>
                     <p>
-                        <a
-                            href="https://www.stairwaytostem.org/assistive-tech-to-support-autistic-students-in-the-classroom/">Here,</a>
-                        STEM grad student Patrick Dwyer sits down with UC Davis’s Accessible Tech Analyst Joshua Hori
-                        for an
-                        overview of the latest in ATTs to assist autistic students on their journey through college,
-                        such as
-                        the Livescribe Smartpen, Sonocent Audio Notetaker, and ClaroPDF.
+                    <h4>Assistive Tech to Support Autistic Students in the Classroom</h4>
+                    <a
+                        href="https://www.stairwaytostem.org/assistive-tech-to-support-autistic-students-in-the-classroom/">Here,</a>
+                    STEM grad student Patrick Dwyer sits down with UC Davis’s Accessible Tech Analyst Joshua Hori for an
+                    overview of the latest in ATTs to assist autistic students on their journey through college, such as
+                    the Livescribe Smartpen, Sonocent Audio Notetaker, and ClaroPDF.
                     </p>
                 </div>
                 <hr>
                 <div>
                     <h3>Technology/Apps</h3>
-                    <h4 style='margin-left: 32px;'><a
+                    <h4><a
                             href="https://www.readingrockets.org/article/assistive-technology-and-apps-support-learners-autism-webinar_ctd">Webinar</a>
                     </h4>
                     <p>
@@ -128,8 +121,7 @@
                     </p>
                 </div>
                 <div>
-                    <h4 style='margin-left: 32px;'><a
-                            href="https://www.middletownautism.com/files/uploads/4bdd684c343385b250fa009cfce1c278.pdf">APPs
+                    <h4><a href="https://www.middletownautism.com/files/uploads/4bdd684c343385b250fa009cfce1c278.pdf">APPs
                             Research</a></h4>
                     <p>
                         <a
@@ -143,15 +135,15 @@
 
         </section>
 
-        <div class="row blockDisplay">
-            <div class="column_half left_half">
-                <h2 class="column_title"><a href="image-based-hyperlinks.php">RESOURCES</h2>
-            </div>
-            <div class="column_half right_half">
-                <h2 class="column_title"><a href="News.php">ARTICLES</h2>
-            </div>
-        </div>
-
+  <div class="row blockDisplay">
+    <div class="column_half left_half">
+      <h2 class="column_title"><a href="image-based-hyperlinks.php">RESOURCES</h2>
+    </div>
+    <div class="column_half right_half">
+      <h2 class="column_title"><a href="News.php">ARTICLES</h2>
+    </div>
+  </div>
+		
         <div class="social">
 
             <p class="social_icon"><a href="facebook.com"><i class='fa fa-facebook'

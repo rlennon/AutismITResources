@@ -16,58 +16,63 @@
 
   </header>
   <section>
-  <h2 class="noDisplay">Main Content</h2>
+    <h2 class="noDisplay">Main Content</h2>
     <article class="left_article">
-    <h3>Autism.ie</h3>
-      <p>This a website that contains helpful information about autism support from Letterkenney Institute of Technology. </p>
-      <p>Plrease find in the tabs above different pages with information such as resource links.</p>
-      <form action="form_action.php">
-        <label for="fname">First name:</label><br>
-        <input type="text" id="fname" name="fname" value="John"><br>
-        <label for="lname">Comment</label><br>
-        <input type="text" id="lname" name="lname" value="Doe"><br><br>
-        <input type="submit" value="Submit">
-      </form>
-      <br><br><br>
-      <hr>
-	</article>
-    <aside class="right_article"> <img src="images/autismie.jpeg" alt="" width="400" height="200" class="placeholder"> </aside>
-  </section>
-  <section>
-  <h2 class="noDisplay">Main Content</h2>
-    <article class="left_article">
-    <h3>Asiam - Autistic Spectrum information Advice and Meeting Point </h3>
-      <p>This a website that contains helpful information about autism support from Letterkenney Institute of Technology. </p>
-      <p>Plrease find in the tabs above different pages with information such as resource links.</p>
-      <form action="form_action.php">
-        <label for="fname">First name:</label><br>
-        <input type="text" id="fname" name="fname" value="John"><br>
-        <label for="lname">Comment</label><br>
-        <input type="text" id="lname" name="lname" value="Doe"><br><br>
-        <input type="submit" value="Submit">
-      </form>
-      <br><br><br>
-      <hr>
-	</article>
-    <aside class="right_article"> <img src="images/asiam.png" alt="" width="400" height="200" class="placeholder"> </aside>
-  </section>
-  <section>
-  <h2 class="noDisplay">Main Content</h2>
-    <article class="left_article">
-    <h3>NCSE - National Council for Special Education</h3>
-      <p>This a website that contains helpful information about autism support from Letterkenney Institute of Technology. </p>
-      <p>Plrease find in the tabs above different pages with information such as resource links.</p>
-      <form action="form_action.php">
-        <label for="fname">First name:</label><br>
-        <input type="text" id="fname" name="fname" value="John"><br>
-        <label for="lname">Comment</label><br>
-        <input type="text" id="lname" name="lname" value="Doe"><br><br>
-        <input type="submit" value="Submit">
-      </form>
-      <br><br><br>
+      <h3>Community</h3>
+      <p>Interact with some of your favourite resources </p>
+
     </article>
-    <aside class="right_article"> <img src="images/ncse.gif" alt="" width="400" height="200" class="placeholder"> </aside>
+
   </section>
+    <div class="row">
+      <div class="columns">
+        <p class="thumbnail_align"> <img src="images/NCSE.gif" alt="" class="thumbnail"/> </p>
+        <h4>Resource 1</h4>
+        <p>text goes here for said resource</p>
+          <form action="/action_page.php">
+            <label for="fname">First name:</label><br>
+            <input type="text" id="fname" name="fname" value="John"><br>
+            <label for="lname">Comment</label><br>
+            <input type="text" id="lname" name="lname" value="Doe"><br><br>
+            <input type="submit" value="Submit">
+          </form>
+    </div>
+    <div class="columns">
+      <p class="thumbnail_align"> <img src="images/NCSE.gif" alt="" class="thumbnail"/> </p>
+      <h4>Resource 1</h4>
+      <p>text goes here for said resource</p>
+        <form action="/action_page.php">
+          <label for="fname">First name:</label><br>
+          <input type="text" id="fname" name="fname" value="John"><br>
+          <label for="lname">Comment</label><br>
+          <input type="text" id="lname" name="lname" value="Doe"><br><br>
+          <input type="submit" value="Submit">
+        </form>
+  </div>
+  <div class="columns">
+    <p class="thumbnail_align"> <img src="images/NCSE.gif" alt="" class="thumbnail"/> </p>
+    <h4>Resource 1</h4>
+    <p>text goes here for said resource</p>
+      <form action="/action_page.php">
+        <label for="fname">First name:</label><br>
+        <input type="text" id="fname" name="fname" value="John"><br>
+        <label for="lname">Comment</label><br>
+        <input type="text" id="lname" name="lname" value="Doe"><br><br>
+        <input type="submit" value="Submit">
+      </form>
+</div>
+<div class="columns">
+  <p class="thumbnail_align"> <img src="images/NCSE.gif" alt="" class="thumbnail"/> </p>
+  <h4>Resource 1</h4>
+  <p>text goes here for said resource</p>
+    <form action="/action_page.php">
+      <label for="fname">First name:</label><br>
+      <input type="text" id="fname" name="fname" value="John"><br>
+      <label for="lname">Comment</label><br>
+      <input type="text" id="lname" name="lname" value="Doe"><br><br>
+      <input type="submit" value="Submit">
+    </form>
+</div>
 </div>
   <div class="social">
 
