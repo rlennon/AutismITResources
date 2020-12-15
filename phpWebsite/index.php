@@ -77,7 +77,7 @@
       <h2 class="column_title"><a href="blog.php">Blog </h2>
     </div>
     <div class="column_half right_half">
-      <h2 class="column_title"><a href="image-based-hyperlinks.php">Sitemap </h2>
+      <h2 class="column_title"><a href="sitemap.php">Sitemap </h2>
     </div>
     
   </div>
