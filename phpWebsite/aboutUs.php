@@ -36,6 +36,12 @@ Our aim is to bring a some needed assistance to autistic individuals because lik
       <h4>Community</h4>
       <p>Join Our Community and talk about your favourate resources with others!!</p>
     </div>
+    <div class="columns">
+      <p class="thumbnail_align"> <a href = "viewStaff.php" target = "_self">
+      <img src="images/staff.jpg" alt="view staff" class="thumbnail"> </p>
+      <h4>View Staff</h4>
+      <p>View our staff and see the individuals that are trying to make your experience as easy as possible</p>
+    </div>
   </div>
 
   </section>
